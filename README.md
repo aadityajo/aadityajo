@@ -7,9 +7,7 @@
 
 ## Hey there. I am Aaditya Joshi. Welcome to my GitHub profile.
 
-🔭 I’m currently working on <a href="https://github.com/RonLek/Someity">Someity</a> <img alt="Someity" src="someity.png" width="3%">
-
-![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadityajo&count_private=true)
+🔭 I’m currently working on <a href="https://github.com/RonLek/Someity">Someity</a> <img alt="Someity" src="someity.png" width="3%"> and <a href="https://github.com/WeblateOrg/weblate"> Weblate </a>
 
 ### Tech Stack
 
