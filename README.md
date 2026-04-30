@@ -25,7 +25,7 @@
 - 💼 I previously worked as a **Lead Software Engineer**, optimizing backend systems, reducing API latency by 75%, and leading platform launches.
 - 🚀 I’m currently building **[StatTrak](https://github.com/aadityajo/StatTrak)** and **[NeetCode Cycle Randomizer](https://github.com/aadityajo/neetcode-cycle-randomizer)**.
 - 🔭 I've actively contributed to open-source projects like **[Weblate](https://github.com/WeblateOrg/weblate)** and built accessibility tools like **[Someity](https://someity.tech/)** <img alt="Someity" src="someity.png" width="20">.
-- ⚡ **Fun fact:** I love optimizing things—whether it's SQL queries, Django ORMs, or my own workflows!
+- ⚡ **Fun fact:** I love optimizing things; whether it's SQL queries, Django ORMs, or my own workflows!
 
 ---
 
